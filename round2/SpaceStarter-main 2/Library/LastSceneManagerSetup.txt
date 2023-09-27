@@ -3,15 +3,15 @@ sceneSetups:
   isLoaded: 1
   isActive: 1
   isSubScene: 0
+- path: Assets/GPT AI Integration/Demo Scenes/Chat Demo - VisualScripting.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
 - path: Assets/Scenes/Artifacts.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/Portals.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/GPT AI Integration/Demo Scenes/Chat Demo - VisualScripting.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0

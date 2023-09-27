@@ -1,1 +1,0 @@
-Temp/ScriptUpdater/2089734515/1831696291_AApiResource.cs => Assets/GPT AI Integration/OpenAi/Runtime/Scripts/Api/Base/AApiResource.cs
