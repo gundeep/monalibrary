@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: DefaultAuthArgsV1
   m_EditorClassIdentifier: 
   AuthType: 1
-  PrivateApiKey: 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
+  PrivateApiKey: 
   Organization: 
